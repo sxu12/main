@@ -8,10 +8,10 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-My research interest focuses on cybersecurity and its intersections with machine learning and networking systems.
-- **Cybersecurity:** cryptography, intrusion detection, wireless security, zero-trust model
+My research interests focus on **cybersecurity** and its intersections with **machine learning** and **networking systems**.
+- **Cybersecurity:** cryptography, intrusion detection, zero-trust model
 - **Secure AI/ML:** learning-based anomaly detection, adversarial attack and defense, robust intelligent systems
-- **Machine Learning:** semi-supervised learning, federated learning, adversarial machine learning, generative AI
+- **Machine Learning:** adversarial machine learning, federated learning, generative AI
 
 
 ## News
