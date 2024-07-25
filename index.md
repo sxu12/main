@@ -169,7 +169,7 @@ Intelligence Control (ISIC)*, Jilin, China, August 13-15, 2011.\
 
 - \[J12\] **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Advancing Security in Edge Artificial Intelligence with Zero Trust Model,\" 
 
-- \[J11\] Ian Hardgrove and **Shengjie Xu**, "Large Language Model in Fuzz Testing,\" *Security and Safety (S&S)* 
+- \[J11\] Ian Hardgrove and **Shengjie Xu**, "Large Language Model in Fuzz Testing,\" 
 
 - \[J10\] Joel Meoak and **Shengjie Xu**, "An EMBER Static Malware Analysis Tactical Decision Aid for Incident Responders,\" 
 
@@ -304,7 +304,7 @@ University, May 2022. <https://scholar.dsu.edu/theses/380>
 
 \[PD1\] Jude Ejiobi, "Aligning Recovery Objectives With Organizational
 Capabilities,\" *Ph.D. in Cyber Operations*, Dakota State University,
-May 2022. <https://scholar.dsu.edu/theses/379>\
+May 2022. <https://scholar.dsu.edu/theses/379>
 
 ### **2. PhD Dissertation Supervised - as Committee Member**
 
@@ -345,7 +345,7 @@ Operations*, Dakota State University, March 2021.
 \[D1\] Richard Matthews, "Analysis of System Performance Metrics Towards
 the Detection of Cryptojacking in IOT Devices,\" *Ph.D. in Cyber
 Operations*, Dakota State University, March 2021.
-<https://scholar.dsu.edu/theses/360>\
+<https://scholar.dsu.edu/theses/360>
 
 ### **3. M.S. Thesis Supervised - as Committee Member**
 
@@ -355,18 +355,230 @@ Scams,\" M.S. in Computer Science, San Diego State University, May 2024.
 \[MT1\] Melarie Cardenas, "Mitigating Cybersecurity Risks Posed
 Self-Service Analytics (SSA) Tools: Creation of a Standardized Audit,\"
 M.S. in Information Systems, San Diego State University, May 2023.
-<https://digitalcollections.sdsu.edu/do/34b19483-5708-4e7d-909d-f5018f0ff99e#>\
+<https://digitalcollections.sdsu.edu/do/34b19483-5708-4e7d-909d-f5018f0ff99e#>
 
 ### **4. Students with Awards - as the Sole Academic Supervisor**
 
 \[MA2\] Tianyi Zhu, M.S. in Cybersecurity Management, won the
-**2024-2025 San Diego State University Master's Research Scholarship**.
-(**[the only graduate student awarded in the Fowler College of
-Business]**)
-<https://business.sdsu.edu/news/2024/05/ai-cybersecurity-research>
+**2024-2025 San Diego State University Master's Research Scholarship**. <https://business.sdsu.edu/news/2024/05/ai-cybersecurity-research>
 
 \[MA1\] Chaitanya Patel, M.S. in Cybersecurity Management, won the
 **Outstanding Graduate Student** in the M.S. program in Cybersecurity
 Management of the Fowler College of Business at San Diego State
 University.
 <https://business.sdsu.edu/news/2024/05/fowlers-top-students>
+
+## Academic Services
+
+### **1. U.S. National Science Foundation (NSF) Proposal Review Panel**
+
+-   Panelist -- NSF's Secure and Trustworthy Cyberspace (SaTC) program:
+    Education Designation competition, 01/25 - 01/26, 2024.
+
+### **2. Editorial Board for IEEE and International Journals**
+
+-   Technical Editor - [IEEE Wireless
+    Communications](https://www.comsoc.org/publications/magazines/ieee-wireless-communications),
+    April 2021 - Present \| [\[Editor
+    Profile\]](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/editorial-board)
+
+-   Editor - [International Journal of Sensor Networks
+    (IJSNet)](http://www.inderscience.com/jhome.php?jcode=ijsnet),
+    September 2020 - Present
+
+-   Editor - [IEEE COMSOC MMTC Communications -
+    Review](https://mmc.committees.comsoc.org/communications-review/),
+    October 2020 - February 2024
+
+-   Guest Editor - [Wireless Communications and Mobile Computing,
+    Hindawi](https://www.hindawi.com/journals/wcmc/), 2021
+
+    -   [Special Issue: Intelligent and Holistic IoT Solutions for
+        Sustainable Cities and
+        Society](https://www.hindawi.com/journals/wcmc/si/349091/)
+
+-   Guest Editor - [Discrete Dynamics in Nature and Society,
+    Hindawi](https://www.hindawi.com/journals/ddns/), 2022
+
+    -   [Special Issue: Dynamic Modelling and Optimization for
+        Intelligent IoT
+        Networks](https://www.hindawi.com/journals/ddns/si/280310/)
+
+### **3. Organizing Committee for IEEE and International Conferences**
+
+-   Finance Chair - International Symposium on Intelligent Computing and
+    Networking, 2024 (ISICN 2024)
+
+-   Session Chair - International Symposium on Intelligent Computing and
+    Networking, 2024 (ISICN 2024)
+
+    -   *Session 1: Intelligent Platforms and Systems* and *Poster
+        Session 2*
+
+-   Publicity Chair - 4th International Workshop on Intelligent Cloud
+    Computing and Networking (ICCN), 2022
+
+    -   in conjunction with IEEE INFOCOM 2022
+
+-   Symposium Session Chair - IEEE International Conference on
+    Communications (ICC), 2018
+
+    -   *Track: Selected Areas in Communications - Edge and Distributed
+        Internet of Things (IoT) Computing*
+
+### **4. Technical Program Committee (TPC) Member for IEEE and International
+Conferences**
+
+-   International Conference on Computing, Networking, and
+    Communications (ICNC), 2025
+
+    -   Symposium: Communication and Information Security (CIS)
+
+<!-- -->
+
+-   International Symposium on Intelligent Computing and Networking
+    (ISICN), 2024
+
+<!-- -->
+
+-   IEEE International Conference on Communications (ICC), 2022
+
+    -   Symposium: Green Communication Systems and Networks (GCSN)
+
+    -   Symposium: Next-Generation Networking and Internet (NGNI)
+
+<!-- -->
+
+-   IEEE Global Communications Conference (GLOBECOM), 2021
+
+    -   Symposium: Green Communication Systems and Networks (GCSN)
+
+    -   Symposium: Selected Areas in Communications - Big Data
+
+<!-- -->
+
+-   IEEE International Conference on Communications (ICC), 2021
+
+    -   Symposium: Green Communication Systems and Networks (GCSN)
+
+    -   Symposium: Next-Generation Networking and Internet (NGNI)
+
+    -   3rd IEEE International Workshop on Data Driven Intelligence for
+        Networks and Systems (DDINS)
+
+-   IEEE Global Internet Symposium (GI), 2021
+
+-   IEEE/ACM International Symposium on Quality of Service (IEEE/ACM
+    IWQoS'21), 2021
+
+-   IEEE Vehicular Technology Conference (VTC), 2016, 2017
+
+    -   Track: Wireless Networks: Protocols, Security, and Services,
+        IEEE VTC-Fall, 2017
+
+    -   Track: Green Communications and Networks, IEEE VTC-Fall, 2017
+
+    -   Track: Mobile Network Applications and Services, IEEE
+        VTC-Spring, 2017
+
+    -   Track: Wireless Networks and Security, IEEE VTC-Spring, 2017
+
+    -   Track: International Workshop on Connecting All Things for
+        Enabling Smart Cities, IEEE VTC-Spring, 2016
+
+    -   Track: Wireless Network: Protocols, Security, and Services, IEEE
+        VTC-Fall, 2016
+
+    -   Track: Wireless Network: Protocols, Security, and Services, IEEE
+        VTC-Spring, 2016
+
+-   Conference on Blockchain Research & Applications for Innovative
+    Networks and Services (BRAINS), 2020
+
+-   IEEE/CIC ICCC ( IEEE/CIC International Conference on Communications
+    in China (ICCC), 2019, 2020
+
+-   2018/2019 International Workshop on Big Data and Edge Computing for
+    Smart City
+
+-   IEEE International Conference on Smart Grid Communications
+    (SmartGridComm), 2017, 2018
+
+    -   Main conference, 2018
+
+    -   Symposium 1: Communications and Networks to Enable the Smart
+        Grid, IEEE SmartGirdComm, 2017
+
+-   International Conference on Computer Communications and Networks
+    (ICCCN), 2015
+
+    -   Track: Green and Sustainable Computing
+
+### **5. Reviewer of Journals and Conferences**
+
+-   **IEEE Journals & Magazines**: IEEE Transactions on Vehicular
+    Technology, IEEE Transactions on Cognitive Communications and
+    Networking, IEEE Transactions on Mobile Computing, IEEE/ACM
+    Transactions on Networking, IEEE Communications Surveys and
+    Tutorials, IEEE Communications Magazine, IEEE Wireless
+    Communications Magazine, IEEE Internet of Things Journal, IEEE
+    Access, IEEE Vehicular Technology Magazine
+
+-   **International Journals**: Security and Communication Networks,
+    Wireless Communications and Mobile Computing, Wiley's International
+    Journal of Communication Systems, International Journal of
+    Distributed Sensor Networks, Journal of Network and Systems
+    Management, China Communications, KSII Transactions on Internet and
+    Information Systems, Mobile Information Systems, Peer-to-Peer
+    Networking and Applications
+
+-   **IEEE & International Conferences**: IEEE International Conference
+    on Computer Communications (INFOCOM) 2020, IEEE International
+    Conference on Communications (ICC) 2017 - 2021, IEEE Global
+    Communications Conference (GLOBECOM) 2016, 2018, 2019, 2021, IEEE
+    International Conference on Trust, Security, and Privacy in
+    Computing and Communications (TrustCom) 2019, International
+    Conferences on Signal Processing and Communication Systems (ICSPCS)
+    2015, 2016, 2017, 2019, International Conference on Wireless
+    Communications and Signal Processing (WCSP) 2017, IEEE INFOCOM
+    BigSecurity 2016, IEEE International Conference on Smart Grid
+    Communications (SmartGridComm) 2016, Military Communications
+    Conference (MILCOM) 2015 - 2017, International Conference on Design
+    of Reliable Communication Networks (DRCN) 2015, 2021
+
+
+### **6. University Services at San Diego State University (SDSU)**
+
+1.  University Senate at SDSU Undergrad Council - Representative of the
+    Fowler College of Business, September 2023
+
+2.  Program Assessment Committee (PAC) at Fowler College of Business -
+    Representative of the MIS department, September 2023 - May 2025
+
+    -   Assessment Coordinator for the Masters of Science in
+        Cybersecurity Management (MSCM) program
+
+3.  Admission Committee for MS Program in Cybersecurity Management -
+    Member, Spring 2024
+
+### **7. University Services at Dakota State University (DSU)**
+
+1.  Faculty Search and Screen Committee for The Beacom College of
+    Computer and Cyber Sciences - Member, Spring 2021 & Spring 2022
+
+2.  Admission Committee for PhD Program in Computer Science - Member,
+    Summer 2021
+
+3.  Admission Committee for PhD Program in Cyber Defense - Member,
+    Spring 2021
+
+4.  Admission Committee for MS Program in Cyber Defense - Member, Fall &
+    Spring & Summer 2021
+
+5.  AI Degree Planning Committee - Member
+
+    -   Bachelor Degree in Artificial Intelligence, Approved by South
+        Dakota Board of Regents, SM 2020 - SP 2021
+
+    -   Artificial Intelligence Specialization in Master of Science
+        Program in Computer Science, SM 2020 - SM 2021
