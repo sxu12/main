@@ -4,9 +4,11 @@ layout: homepage
 
 ## About Me
 
-Shengjie Xu received a Ph.D. degree in Computer Engineering from the Department of Electrical and Computer Engineering at the University of Nebraska-Lincoln (UNL) in 2019, an M.S. degree in Telecommunications from the University of Pittsburgh (PITT) in 2014, and a B.E. degree in Information Security in 2012. He is currently an Assistant Professor in the Department of Cyber, Intelligence, and Information Operations of the College of Applied Science and Technology at the University of Arizona (UA). Before joining UA, he was an Assistant Professor in the Department of Management Information Systems of the Fowler College of Business at San Diego State University (SDSU) from the Fall of 2022 to the Spring of 2024, and an Assistant Professor in the Beacom College of Computer and Cyber Sciences at Dakota State University (DSU) from the Fall of 2019 to the Spring of 2022.
+Shengjie Xu is currently an Assistant Professor in the Department of Cyber, Intelligence, and Information Operations of the College of Applied Science and Technology at the University of Arizona (UA). Before joining UA, he was an Assistant Professor in the Department of Management Information Systems of the Fowler College of Business at San Diego State University (SDSU) from the Fall of 2022 to the Spring of 2024, and an Assistant Professor in the Beacom College of Computer and Cyber Sciences at Dakota State University (DSU) from the Fall of 2019 to the Spring of 2022.
 
 His research interests include cybersecurity, secure AI/machine learning, cryptography, robust intelligent systems, and critical infrastructure protection. He serves as a Technical Editor for IEEE Wireless Communications and a proposal panel reviewer for the U.S. National Science Foundation, where he received research and training grants. He is the lead author of the book “Cybersecurity in Intelligent Networking Systems” (John Wiley/IEEE Press, 2023). He is a member of IEEE and ACM, and holds multiple professional certifications in cybersecurity and computer networking.
+
+He received a Ph.D. degree in Computer Engineering from the Department of Electrical and Computer Engineering at the University of Nebraska-Lincoln (UNL) in 2019, an M.S. degree in Telecommunications from the University of Pittsburgh (PITT) in 2014, and a B.E. degree in Information Security in 2012.
 
 ## Research Interests
 
