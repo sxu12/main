@@ -19,7 +19,7 @@ My research interests focus on **cybersecurity** and its intersections with **ma
 ## Accolades
 
 - **[2024]** **Outstanding Faculty Award**, Fowler College of Business, San Diego State University
-- **[2020]** **IET Journal Premium Award for Best Paper**, Institution of Engineering and Technology (IET)
+- **[2020]** **IET Journal Premium Award for Best Paper**, Institution of Engineering and Technology (IET) - IET Smart Grid Journal
 - **[2017]** **Milton E. Mohr Graduate Fellowship Award**, College of Engineering, University of Nebraska-Lincoln
 - **[2015]** **Best Poster Award**, 11th International Conference on Design of Reliable Communication Networks (DRCN)
 - **[2013]** **Outstanding Graduate Students Scholarship**, School of Information Science, University of Pittsburgh
