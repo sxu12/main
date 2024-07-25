@@ -26,6 +26,8 @@ My research interests focus on **cybersecurity** and its intersections with **ma
 - **[2015]** **Best Poster Award**, 11th International Conference on Design of Reliable Communication Networks (DRCN)
 - **[2013]** **Outstanding Graduate Students Scholarship**, School of Information Science, University of Pittsburgh
 
-{% include_relative _includes/publications.md %}
+## Publications
 
-{% include_relative _includes/services.md %}
+**1. Book**
+
+**Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Cybersecurity in Intelligent Networking Systems,\" *John Wiley/IEEE Press*, 2023. 
