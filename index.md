@@ -379,8 +379,7 @@ University.
 
 -   Technical Editor - [IEEE Wireless
     Communications](https://www.comsoc.org/publications/magazines/ieee-wireless-communications),
-    April 2021 - Present \| [\[Editor
-    Profile\]](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/editorial-board)
+    April 2021 - Present
 
 -   Editor - [International Journal of Sensor Networks
     (IJSNet)](http://www.inderscience.com/jhome.php?jcode=ijsnet),
@@ -426,8 +425,7 @@ University.
     -   *Track: Selected Areas in Communications - Edge and Distributed
         Internet of Things (IoT) Computing*
 
-### **4. Technical Program Committee (TPC) Member for IEEE and International
-Conferences**
+### **4. Technical Program Committee (TPC) Member for IEEE and International Conferences**
 
 -   International Conference on Computing, Networking, and
     Communications (ICNC), 2025
