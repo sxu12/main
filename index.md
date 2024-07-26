@@ -500,11 +500,9 @@ University.
 ### 6. University Services at San Diego State University (SDSU)
 
 1. University Senate at SDSU Undergrad Council - Representative of the Fowler College of Business, September 2023
-2. Program Assessment Committee (PAC) at Fowler College of Business -
-    Representative of the MIS department, September 2023 - May 2024
+2. Program Assessment Committee (PAC) at Fowler College of Business - Representative of the MIS department, September 2023 - May 2024
     - Assessment Coordinator for the Masters of Science in Cybersecurity Management (MSCM) program
-3. Admission Committee for MS Program in Cybersecurity Management -
-    Member, Spring 2024
+3. Admission Committee for MS Program in Cybersecurity Management - Member, Spring 2024
 
 ### 7. University Services at Dakota State University (DSU)
 
