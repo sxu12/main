@@ -389,44 +389,45 @@ University.
 
 ### 1. U.S. National Science Foundation (NSF) Proposal Review Panel
 
-Panelist -- NSF's Secure and Trustworthy Cyberspace (SaTC) program:
-    Education Designation competition
+Panelist -- NSF's Secure and Trustworthy Cyberspace (SaTC) program: Education Designation competition
 
 ### 2. Editorial Board for IEEE and International Journals
 
 Technical Editor - IEEE Wireless Communications, April 2021 - Present
+
 Editor - International Journal of Sensor Networks (IJSNet), September 2020 - Present
+
 Editor - IEEE COMSOC MMTC Communications - Review, October 2020 - February 2024
-Guest Editor - Wireless Communications and Mobile Computing, Hindawi, 2021 | Special Issue: Intelligent and Holistic IoT Solutions for Sustainable Cities and Society
-Guest Editor - Discrete Dynamics in Nature and Society, Hindawi, 2022 | Special Issue: Dynamic Modelling and Optimization for Intelligent IoT Networks
+
+Guest Editor - Wireless Communications and Mobile Computing, Hindawi, 2021 | *Special Issue: Intelligent and Holistic IoT Solutions for Sustainable Cities and Society*
+
+Guest Editor - Discrete Dynamics in Nature and Society, Hindawi, 2022 | *Special Issue: Dynamic Modelling and Optimization for Intelligent IoT Networks*
 
 ### 3. Organizing Committee for IEEE and International Conferences
 
-- Finance Chair - International Symposium on Intelligent Computing and
+Finance Chair - International Symposium on Intelligent Computing and
     Networking, 2024 (ISICN 2024)
-- Session Chair - International Symposium on Intelligent Computing and
-    Networking, 2024 (ISICN 2024)
-  - *Session 1: Intelligent Platforms and Systems* and *Poster
+
+Session Chair - International Symposium on Intelligent Computing and
+    Networking, 2024 (ISICN 2024) | *Session 1: Intelligent Platforms and Systems* and *Poster
         Session 2*
-- Publicity Chair - 4th International Workshop on Intelligent Cloud
-    Computing and Networking (ICCN), 2022
-  - in conjunction with IEEE INFOCOM 2022
-- Symposium Session Chair - IEEE International Conference on
-    Communications (ICC), 2018
-  - *Track: Selected Areas in Communications - Edge and Distributed
+
+Publicity Chair - 4th International Workshop on Intelligent Cloud
+    Computing and Networking (ICCN), 2022 | in conjunction with IEEE INFOCOM 2022
+
+Symposium Session Chair - IEEE International Conference on
+    Communications (ICC), 2018 | *Track: Selected Areas in Communications - Edge and Distributed
         Internet of Things (IoT) Computing*
 
 ### 4. Technical Program Committee (TPC) Member for IEEE and International Conferences
 
--   International Conference on Computing, Networking, and
-    Communications (ICNC), 2025
-    -   Symposium: Communication and Information Security (CIS)
--   International Symposium on Intelligent Computing and Networking
-    (ISICN), 2024
--   IEEE International Conference on Communications (ICC), 2022
-    -   Symposium: Green Communication Systems and Networks (GCSN)
-    -   Symposium: Next-Generation Networking and Internet (NGNI)
--   IEEE Global Communications Conference (GLOBECOM), 2021
+International Conference on Computing, Networking, and
+    Communications (ICNC), 2025 | *Symposium: Communication and Information Security (CIS)*
+    
+International Symposium on Intelligent Computing and Networking
+    (ISICN), 2024 | *IEEE International Conference on Communications (ICC), 2022 || Symposium: Green Communication Systems and Networks (GCSN) || Symposium: Next-Generation Networking and Internet (NGNI)*
+
+IEEE Global Communications Conference (GLOBECOM), 2021
     -   Symposium: Green Communication Systems and Networks (GCSN)
     -   Symposium: Selected Areas in Communications - Big Data
 -   IEEE International Conference on Communications (ICC), 2021
