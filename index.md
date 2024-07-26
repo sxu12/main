@@ -389,18 +389,16 @@ University.
 
 ### 1. U.S. National Science Foundation (NSF) Proposal Review Panel
 
--   Panelist -- NSF's Secure and Trustworthy Cyberspace (SaTC) program:
+Panelist -- NSF's Secure and Trustworthy Cyberspace (SaTC) program:
     Education Designation competition
 
 ### 2. Editorial Board for IEEE and International Journals
 
-- Technical Editor - IEEE Wireless Communications, April 2021 - Present
-- Editor - International Journal of Sensor Networks (IJSNet), September 2020 - Present
-- Editor - IEEE COMSOC MMTC Communications - Review, October 2020 - February 2024
-- Guest Editor - Wireless Communications and Mobile Computing, Hindawi, 2021
-  - Special Issue: Intelligent and Holistic IoT Solutions for Sustainable Cities and Society
-- Guest Editor - Discrete Dynamics in Nature and Society, Hindawi, 2022
-  - Special Issue: Dynamic Modelling and Optimization for Intelligent IoT Networks
+Technical Editor - IEEE Wireless Communications, April 2021 - Present
+Editor - International Journal of Sensor Networks (IJSNet), September 2020 - Present
+Editor - IEEE COMSOC MMTC Communications - Review, October 2020 - February 2024
+Guest Editor - Wireless Communications and Mobile Computing, Hindawi, 2021 | Special Issue: Intelligent and Holistic IoT Solutions for Sustainable Cities and Society
+Guest Editor - Discrete Dynamics in Nature and Society, Hindawi, 2022 | Special Issue: Dynamic Modelling and Optimization for Intelligent IoT Networks
 
 ### 3. Organizing Committee for IEEE and International Conferences
 
