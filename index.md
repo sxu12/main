@@ -398,31 +398,31 @@ University.
 
 ### 2. Editorial Board for IEEE and International Journals
 
--   Technical Editor - [IEEE Wireless
-    Communications](https://www.comsoc.org/publications/magazines/ieee-wireless-communications),
+-   Technical Editor - IEEE Wireless
+    Communications,
     April 2021 - Present
 
--   Editor - [International Journal of Sensor Networks
-    (IJSNet)](http://www.inderscience.com/jhome.php?jcode=ijsnet),
+-   Editor - International Journal of Sensor Networks
+    (IJSNet),
     September 2020 - Present
 
--   Editor - [IEEE COMSOC MMTC Communications -
-    Review](https://mmc.committees.comsoc.org/communications-review/),
+-   Editor - IEEE COMSOC MMTC Communications -
+    Review,
     October 2020 - February 2024
 
--   Guest Editor - [Wireless Communications and Mobile Computing,
-    Hindawi](https://www.hindawi.com/journals/wcmc/), 2021
+-   Guest Editor - Wireless Communications and Mobile Computing,
+    Hindawi, 2021
 
-    -   [Special Issue: Intelligent and Holistic IoT Solutions for
+    -   Special Issue: Intelligent and Holistic IoT Solutions for
         Sustainable Cities and
-        Society](https://www.hindawi.com/journals/wcmc/si/349091/)
+        Society
 
--   Guest Editor - [Discrete Dynamics in Nature and Society,
-    Hindawi](https://www.hindawi.com/journals/ddns/), 2022
+-   Guest Editor - Discrete Dynamics in Nature and Society,
+    Hindawi, 2022
 
-    -   [Special Issue: Dynamic Modelling and Optimization for
+    -   Special Issue: Dynamic Modelling and Optimization for
         Intelligent IoT
-        Networks](https://www.hindawi.com/journals/ddns/si/280310/)
+        Networks
 
 ### 3. Organizing Committee for IEEE and International Conferences
 
