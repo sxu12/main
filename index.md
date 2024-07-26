@@ -32,10 +32,10 @@ My research interests focus on **cybersecurity** and its intersections with **ma
 
 ## Publications
 
-### **1. Book**
+### 1. Book
 [B1] **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Cybersecurity in Intelligent Networking Systems,\" *John Wiley/IEEE Press*, 2023. 
 
-### **2. Refereed Conference Proceedings**
+### 2. Refereed Conference Proceedings
 \[C25\] **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Zero Trust Model for Secure Edge Intelligence,\" 
 
 \[C24\] Gary McCully, John Hastings, **Shengjie Xu**, and Adam Fortier,
@@ -167,7 +167,7 @@ Storage Device Surveillance System in Intranet,\" Proceedings of the
 Intelligence Control (ISIC)*, Jilin, China, August 13-15, 2011.
 
 
-### **3. Refereed Journal Articles**
+### 3. Refereed Journal Articles
 \[J12\] **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Advancing Security in Edge Artificial Intelligence with Zero Trust Model,\" 
 
 \[J11\] Ian Hardgrove and **Shengjie Xu**, "Large Language Model in Fuzz Testing,\" 
@@ -194,7 +194,7 @@ Intelligence Control (ISIC)*, Jilin, China, August 13-15, 2011.
 
 ## Invited Talks & Presentations
 
-### **1. Invited Talks and Conference Tutorials**
+### 1. Invited Talks and Conference Tutorials
 [T7] "AI/ML and Security in Wireless
     Communications,\" 4-hour long tutorial talk at *IEEE Vehicular
     Technology Conference (VTC2024-Fall)*, Washington DC, United States,
@@ -237,7 +237,7 @@ Intelligence Control (ISIC)*, Jilin, China, August 13-15, 2011.
     IEEE Computer Society - Siouxland Section,* Brookings, South Dakota,
     United States, December 2019.
 
-### **2. Presentations of Symposium Papers and Research Activities**
+### 2. Presentations of Symposium Papers and Research Activities
 [P11] "Towards Adaptive Zero Trust Model for Secure AI,\" *IEEE Conference
     on Communications and Network Security (CNS)*, Orlando, Florida,
     United States, October 2023.
@@ -314,7 +314,7 @@ Intelligence Control (ISIC)*, Jilin, China, August 13-15, 2011.
 
 ## Student Supervisory/Mentorship Experience
 
-### **1. PhD Dissertation Supervised - as Chair/Supervisor**
+### 1. PhD Dissertation Supervised - as Chair/Supervisor
 \[PD3\] Matt Bradley, "A Metric For Machine Learning Vulnerability to
 Adversarial Examples,\" *Ph.D. in Cyber Operations*, Dakota State
 University, May 2022. <https://scholar.dsu.edu/theses/380>
@@ -327,7 +327,7 @@ University, May 2022. <https://scholar.dsu.edu/theses/380>
 Capabilities,\" *Ph.D. in Cyber Operations*, Dakota State University,
 May 2022. <https://scholar.dsu.edu/theses/379>
 
-### **2. PhD Dissertation Supervised - as Committee Member**
+### 2. PhD Dissertation Supervised - as Committee Member
 
 \[D9\] Gary McCully, "Analysis of NLP Embedding Models for Vulnerability
 Discovery in Binaries,\" *Ph.D. in Cyber Operations*, Dakota State
@@ -368,7 +368,7 @@ the Detection of Cryptojacking in IOT Devices,\" *Ph.D. in Cyber
 Operations*, Dakota State University, March 2021.
 <https://scholar.dsu.edu/theses/360>
 
-### **3. M.S. Thesis Supervised - as Committee Member**
+### 3. M.S. Thesis Supervised - as Committee Member
 
 \[MT2\] Shixuan Guan, "Detection and Prevention of Cryptocurrency
 Scams,\" M.S. in Computer Science, San Diego State University, May 2024.
@@ -378,7 +378,7 @@ Self-Service Analytics (SSA) Tools: Creation of a Standardized Audit,\"
 M.S. in Information Systems, San Diego State University, May 2023.
 <https://digitalcollections.sdsu.edu/do/34b19483-5708-4e7d-909d-f5018f0ff99e#>
 
-### **4. Students with Awards - as the Sole Academic Supervisor**
+### 4. Students with Awards - as the Sole Academic Supervisor
 
 \[MA2\] Tianyi Zhu, M.S. in Cybersecurity Management, won the
 **2024-2025 San Diego State University Master's Research Scholarship**. <https://business.sdsu.edu/news/2024/05/ai-cybersecurity-research>
@@ -391,12 +391,12 @@ University.
 
 ## Academic Services
 
-### **1. U.S. National Science Foundation (NSF) Proposal Review Panel**
+### 1. U.S. National Science Foundation (NSF) Proposal Review Panel
 
 -   Panelist -- NSF's Secure and Trustworthy Cyberspace (SaTC) program:
-    Education Designation competition, 01/25 - 01/26, 2024.
+    Education Designation competition, Janurary 2024.
 
-### **2. Editorial Board for IEEE and International Journals**
+### 2. Editorial Board for IEEE and International Journals
 
 -   Technical Editor - [IEEE Wireless
     Communications](https://www.comsoc.org/publications/magazines/ieee-wireless-communications),
@@ -424,7 +424,7 @@ University.
         Intelligent IoT
         Networks](https://www.hindawi.com/journals/ddns/si/280310/)
 
-### **3. Organizing Committee for IEEE and International Conferences**
+### 3. Organizing Committee for IEEE and International Conferences
 
 -   Finance Chair - International Symposium on Intelligent Computing and
     Networking, 2024 (ISICN 2024)
@@ -446,7 +446,7 @@ University.
     -   *Track: Selected Areas in Communications - Edge and Distributed
         Internet of Things (IoT) Computing*
 
-### **4. Technical Program Committee (TPC) Member for IEEE and International Conferences**
+### 4. Technical Program Committee (TPC) Member for IEEE and International Conferences
 
 -   International Conference on Computing, Networking, and
     Communications (ICNC), 2025
@@ -533,7 +533,7 @@ University.
 
     -   Track: Green and Sustainable Computing
 
-### **5. Reviewer of Journals and Conferences**
+### 5. Reviewer of Journals and Conferences
 
 -   **IEEE Journals & Magazines**: IEEE Transactions on Vehicular
     Technology, IEEE Transactions on Cognitive Communications and
@@ -566,7 +566,7 @@ University.
     of Reliable Communication Networks (DRCN) 2015, 2021
 
 
-### **6. University Services at San Diego State University (SDSU)**
+### 6. University Services at San Diego State University (SDSU)
 
 1.  University Senate at SDSU Undergrad Council - Representative of the
     Fowler College of Business, September 2023
@@ -580,7 +580,7 @@ University.
 3.  Admission Committee for MS Program in Cybersecurity Management -
     Member, Spring 2024
 
-### **7. University Services at Dakota State University (DSU)**
+### 7. University Services at Dakota State University (DSU)
 
 1.  Faculty Search and Screen Committee for The Beacom College of
     Computer and Cyber Sciences - Member, Spring 2021 & Spring 2022
