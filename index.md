@@ -529,6 +529,6 @@ University.
     Spring & Summer 2021
 5.  AI Degree Planning Committee - Member
     -   Bachelor Degree in Artificial Intelligence, Approved by South
-        Dakota Board of Regents, SM 2020 - SP 2021
+        Dakota Board of Regents, Summer 2020 - Spring 2021
     -   Artificial Intelligence Specialization in Master of Science
-        Program in Computer Science, SM 2020 - SM 2021
+        Program in Computer Science, Summer 2020 - Summer 2021
