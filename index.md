@@ -317,15 +317,14 @@ Intelligence Control (ISIC)*, Jilin, China, August 13-15, 2011.
 ### 1. PhD Dissertation Supervised - as Chair/Supervisor
 \[PD3\] Matt Bradley, "A Metric For Machine Learning Vulnerability to
 Adversarial Examples,\" *Ph.D. in Cyber Operations*, Dakota State
-University, May 2022. <https://scholar.dsu.edu/theses/380>
+University, May 2022. 
 
 \[PD2\] Justin Burr, "Improving Adversarial Attacks Against MalConv,\"
 *Ph.D. in Cyber Operations*, Dakota State University, May 2022.
-<https://scholar.dsu.edu/theses/378>
 
 \[PD1\] Jude Ejiobi, "Aligning Recovery Objectives With Organizational
 Capabilities,\" *Ph.D. in Cyber Operations*, Dakota State University,
-May 2022. <https://scholar.dsu.edu/theses/379>
+May 2022.
 
 ### 2. PhD Dissertation Supervised - as Committee Member
 
@@ -344,29 +343,27 @@ School of Mines and Technology, PhD candidacy date: Spring 2023
 
 \[D6\] Kimo Bumanglag, "An Application of Machine Learning to Analysis
 of Packed Mac Malware,\" *Ph.D. in Cyber Operations*, Dakota State
-University, May 2022. <https://scholar.dsu.edu/theses/381>
+University, May 2022. 
 
 \[D5\] Lisa McKee, "Privacy Assessment Breakthrough: A Design Science
 Approach to Creating a Unified Methodology,\" *Ph.D. in Cyber Defense*,
-Dakota State University, May 2022. <https://scholar.dsu.edu/theses/382>
+Dakota State University, May 2022. 
 
 \[D4\] Piyush Vyas, "Fake News Detection on the Web: A Deep Learning
 Based Approach,\" *Ph.D. in Information Systems*, Dakota State
-University, April 2022. <https://scholar.dsu.edu/theses/385>
+University, April 2022. 
 
 \[D3\] Mohammad Muntasir Nur, "Towards Identity Relationship Management
 For Internet of Things,\" *Ph.D. in Cyber Operations*, Dakota State
-University, March 2021. <https://scholar.dsu.edu/theses/361>
+University, March 2021. 
 
 \[D2\] Howard Goodman, "Analyzing the Effectiveness of Legal Regulations
 and Social Consequences for Securing Data,\" *Ph.D. in Cyber
 Operations*, Dakota State University, March 2021.
-<https://scholar.dsu.edu/theses/370>
 
 \[D1\] Richard Matthews, "Analysis of System Performance Metrics Towards
 the Detection of Cryptojacking in IOT Devices,\" *Ph.D. in Cyber
 Operations*, Dakota State University, March 2021.
-<https://scholar.dsu.edu/theses/360>
 
 ### 3. M.S. Thesis Supervised - as Committee Member
 
@@ -376,7 +373,6 @@ Scams,\" M.S. in Computer Science, San Diego State University, May 2024.
 \[MT1\] Melarie Cardenas, "Mitigating Cybersecurity Risks Posed
 Self-Service Analytics (SSA) Tools: Creation of a Standardized Audit,\"
 M.S. in Information Systems, San Diego State University, May 2023.
-<https://digitalcollections.sdsu.edu/do/34b19483-5708-4e7d-909d-f5018f0ff99e#>
 
 ### 4. Students with Awards - as the Sole Academic Supervisor
 
@@ -394,32 +390,26 @@ University.
 ### 1. U.S. National Science Foundation (NSF) Proposal Review Panel
 
 -   Panelist -- NSF's Secure and Trustworthy Cyberspace (SaTC) program:
-    Education Designation competition, Janurary 2024.
+    Education Designation competition
 
 ### 2. Editorial Board for IEEE and International Journals
 
 -   Technical Editor - IEEE Wireless
     Communications,
     April 2021 - Present
-
 -   Editor - International Journal of Sensor Networks
     (IJSNet),
     September 2020 - Present
-
 -   Editor - IEEE COMSOC MMTC Communications -
     Review,
     October 2020 - February 2024
-
 -   Guest Editor - Wireless Communications and Mobile Computing,
     Hindawi, 2021
-
     -   Special Issue: Intelligent and Holistic IoT Solutions for
         Sustainable Cities and
         Society
-
 -   Guest Editor - Discrete Dynamics in Nature and Society,
     Hindawi, 2022
-
     -   Special Issue: Dynamic Modelling and Optimization for
         Intelligent IoT
         Networks
