@@ -20,15 +20,15 @@ My research interests focus on **cybersecurity** and its intersections with **ma
 
 ## Accolades
 
-**[2024]** **Outstanding Faculty Award**, Fowler College of Business, San Diego State University
+- **[2024]** **Outstanding Faculty Award**, Fowler College of Business, San Diego State University
 
-**[2020]** **IET Journal Premium Award for Best Paper**, Institution of Engineering and Technology (IET)
+- **[2020]** **IET Journal Premium Award for Best Paper**, Institution of Engineering and Technology (IET)
 
-**[2017]** **Milton E. Mohr Graduate Fellowship Award**, College of Engineering, University of Nebraska-Lincoln
+- **[2017]** **Milton E. Mohr Graduate Fellowship Award**, College of Engineering, University of Nebraska-Lincoln
 
-**[2015]** **Best Poster Award**, 11th International Conference on Design of Reliable Communication Networks (DRCN)
+- **[2015]** **Best Poster Award**, 11th International Conference on Design of Reliable Communication Networks (DRCN)
 
-**[2013]** **Outstanding Graduate Students Scholarship**, School of Information Science, University of Pittsburgh
+- **[2013]** **Outstanding Graduate Students Scholarship**, School of Information Science, University of Pittsburgh
 
 ## Publications
 
@@ -196,13 +196,13 @@ Intelligence Control (ISIC)*, Jilin, China, August 13-15, 2011.
 
 ### 1. Invited Talks and Conference Tutorials
 [T7] "AI/ML and Security in Wireless
-    Communications,\" 4-hour long tutorial talk at *IEEE Vehicular
+    Communications,\" tutorial talk at *IEEE Vehicular
     Technology Conference (VTC2024-Fall)*, Washington DC, United States,
     October 7-10, 2024. (**Flagship Conference of IEEE Vehicular
     Technology Society**)
     
 [T6] "AI/ML in Secure Communication
-    Networks,\" 4-hour long tutorial talk at *IEEE International
+    Networks,\" tutorial talk at *IEEE International
     Conference on Communications (ICC)*, Denver, Colorado, United
     States, June 9, 2024. (**Flagship Conference of IEEE Communications
     Society**)
@@ -281,7 +281,7 @@ Intelligence Control (ISIC)*, Jilin, China, August 13-15, 2011.
 [P2] "Quantitative Study of Reliable Communication Infrastructure in
     Smart Grid NAN,\" *11th International Conference on the Design of
     Reliable Communication Networks*, Kansas City, Missouri, United
-    States, March 2015. **(Best Poster Award)**
+    States, March 2015.
     
 [P1] "Network Security Research in Smart Grid Communication Systems,\"
     *6th Central Area Networking and Security Workshop*, Lawrence,
