@@ -431,7 +431,7 @@ IEEE International Conference on Communications (ICC), 2022 | *Symposium: Green 
 
 IEEE Global Communications Conference (GLOBECOM), 2021 | *Symposium: Green Communication Systems and Networks (GCSN)* | *Symposium: Selected Areas in Communications - Big Data*
 
-IEEE International Conference on Communications (ICC), 2021 | *  Symposium: Green Communication Systems and Networks (GCSN)* | *Symposium: Next-Generation Networking and Internet (NGNI) * |  3rd IEEE International Workshop on Data Driven Intelligence for Networks and Systems (DDINS)*
+IEEE International Conference on Communications (ICC), 2021 | *  Symposium: Green Communication Systems and Networks (GCSN)* | *Symposium: Next-Generation Networking and Internet (NGNI)* | *3rd IEEE International Workshop on Data Driven Intelligence for Networks and Systems (DDINS)*
 
 IEEE Global Internet Symposium (GI), 2021
 
@@ -510,6 +510,6 @@ Admission Committee for PhD Program in Cyber Defense - Member,
 Admission Committee for MS Program in Cyber Defense - Member, Fall &
     Spring & Summer 2021
 
-AI Degree Planning Committee - Member | Bachelor Degree in Artificial Intelligence, Approved by South
-        Dakota Board of Regents, Summer 2020 - Spring 2021 | Artificial Intelligence Specialization in Master of Science
-        Program in Computer Science, Summer 2020 - Summer 2021
+AI Degree Planning Committee - Member | *Bachelor Degree in Artificial Intelligence, Approved by South
+        Dakota Board of Regents, Summer 2020 - Spring 2021* | *Artificial Intelligence Specialization in Master of Science
+        Program in Computer Science, Summer 2020 - Summer 2021*
