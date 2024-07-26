@@ -431,20 +431,17 @@ IEEE International Conference on Communications (ICC), 2022 | *Symposium: Green 
 
 IEEE Global Communications Conference (GLOBECOM), 2021 | *Symposium: Green Communication Systems and Networks (GCSN)* | *Symposium: Selected Areas in Communications - Big Data*
 
-IEEE International Conference on Communications (ICC), 2021 | *  Symposium: Green Communication Systems and Networks (GCSN)* | *Symposium: Next-Generation Networking and Internet (NGNI)* | *3rd IEEE International Workshop on Data Driven Intelligence for Networks and Systems (DDINS)*
+IEEE International Conference on Communications (ICC), 2021 | *Symposium: Green Communication Systems and Networks (GCSN)* | *Symposium: Next-Generation Networking and Internet (NGNI)* | *3rd IEEE International Workshop on Data Driven Intelligence for Networks and Systems (DDINS)*
 
 IEEE Global Internet Symposium (GI), 2021
 
-IEEE/ACM International Symposium on Quality of Service (IEEE/ACM
-    IWQoS'21), 2021
+IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS'21), 2021
 
-IEEE Vehicular Technology Conference (VTC), 2016, 2017 | * Track: Wireless Networks: Protocols, Security, and Services, IEEE VTC-Fall, 2017 * | *Track: Green Communications and Networks, IEEE VTC-Fall, 2017* | *  Track: Mobile Network Applications and Services, IEEE VTC-Spring, 2017* |*Track: Wireless Networks and Security, IEEE VTC-Spring, 2017* | * Track: International Workshop on Connecting All Things for Enabling Smart Cities, IEEE VTC-Spring, 2016 *| *Track: Wireless Network: Protocols, Security, and Services, IEEE VTC-Fall, 2016* | *Track: Wireless Network: Protocols, Security, and Services, IEEE VTC-Spring, 2016*
+IEEE Vehicular Technology Conference (VTC), 2016, 2017 | *Track: Wireless Networks: Protocols, Security, and Services, IEEE VTC-Fall, 2017* | *Track: Green Communications and Networks, IEEE VTC-Fall, 2017* | *Track: Mobile Network Applications and Services, IEEE VTC-Spring, 2017* | *Track: Wireless Networks and Security, IEEE VTC-Spring, 2017* | *Track: International Workshop on Connecting All Things for Enabling Smart Cities, IEEE VTC-Spring, 2016* | *Track: Wireless Network: Protocols, Security, and Services, IEEE VTC-Fall, 2016* | *Track: Wireless Network: Protocols, Security, and Services, IEEE VTC-Spring, 2016*
 
-Conference on Blockchain Research & Applications for Innovative
-    Networks and Services (BRAINS), 2020
+Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS), 2020
 
-IEEE/CIC ICCC ( IEEE/CIC International Conference on Communications
-    in China (ICCC), 2019, 2020
+IEEE/CIC ICCC ( IEEE/CIC International Conference on Communications in China (ICCC), 2019, 2020
 
 2018/2019 International Workshop on Big Data and Edge Computing for
     Smart City
@@ -492,7 +489,9 @@ International Conference on Computer Communications and Networks
 
 University Senate at SDSU Undergrad Council - Representative of the Fowler College of Business, September 2023
 
-Program Assessment Committee (PAC) at Fowler College of Business - Representative of the MIS department, September 2023 - May 2024 | Assessment Coordinator for the Masters of Science in Cybersecurity Management (MSCM) program
+Program Assessment Chair (PAC) of the MIS department at Fowler College of Business , September 2023 - May 2024 
+
+Program Assessment Coordinator for the Masters of Science in Cybersecurity Management (MSCM) program
 
 Admission Committee for MS Program in Cybersecurity Management - Member, Spring 2024
 
