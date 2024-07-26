@@ -405,11 +405,8 @@ University.
     October 2020 - February 2024
 -   Guest Editor - Wireless Communications and Mobile Computing,
     Hindawi, 2021
-    -   Special Issue: Intelligent and Holistic IoT Solutions for
-        Sustainable Cities and
-        Society
--   Guest Editor - Discrete Dynamics in Nature and Society,
-    Hindawi, 2022
+    -   Special Issue: Intelligent and Holistic IoT Solutions for Sustainable Cities and Society
+-   Guest Editor - Discrete Dynamics in Nature and Society, Hindawi, 2022
     -   Special Issue: Dynamic Modelling and Optimization for
         Intelligent IoT
         Networks
@@ -418,21 +415,15 @@ University.
 
 -   Finance Chair - International Symposium on Intelligent Computing and
     Networking, 2024 (ISICN 2024)
-
 -   Session Chair - International Symposium on Intelligent Computing and
     Networking, 2024 (ISICN 2024)
-
     -   *Session 1: Intelligent Platforms and Systems* and *Poster
         Session 2*
-
 -   Publicity Chair - 4th International Workshop on Intelligent Cloud
     Computing and Networking (ICCN), 2022
-
     -   in conjunction with IEEE INFOCOM 2022
-
 -   Symposium Session Chair - IEEE International Conference on
     Communications (ICC), 2018
-
     -   *Track: Selected Areas in Communications - Edge and Distributed
         Internet of Things (IoT) Computing*
 
@@ -440,87 +431,49 @@ University.
 
 -   International Conference on Computing, Networking, and
     Communications (ICNC), 2025
-
     -   Symposium: Communication and Information Security (CIS)
-
-<!-- -->
-
 -   International Symposium on Intelligent Computing and Networking
     (ISICN), 2024
-
-<!-- -->
-
 -   IEEE International Conference on Communications (ICC), 2022
-
     -   Symposium: Green Communication Systems and Networks (GCSN)
-
     -   Symposium: Next-Generation Networking and Internet (NGNI)
-
-<!-- -->
-
 -   IEEE Global Communications Conference (GLOBECOM), 2021
-
     -   Symposium: Green Communication Systems and Networks (GCSN)
-
     -   Symposium: Selected Areas in Communications - Big Data
-
-<!-- -->
-
 -   IEEE International Conference on Communications (ICC), 2021
-
     -   Symposium: Green Communication Systems and Networks (GCSN)
-
     -   Symposium: Next-Generation Networking and Internet (NGNI)
-
     -   3rd IEEE International Workshop on Data Driven Intelligence for
         Networks and Systems (DDINS)
-
 -   IEEE Global Internet Symposium (GI), 2021
-
 -   IEEE/ACM International Symposium on Quality of Service (IEEE/ACM
     IWQoS'21), 2021
-
 -   IEEE Vehicular Technology Conference (VTC), 2016, 2017
-
     -   Track: Wireless Networks: Protocols, Security, and Services,
         IEEE VTC-Fall, 2017
-
     -   Track: Green Communications and Networks, IEEE VTC-Fall, 2017
-
     -   Track: Mobile Network Applications and Services, IEEE
         VTC-Spring, 2017
-
     -   Track: Wireless Networks and Security, IEEE VTC-Spring, 2017
-
     -   Track: International Workshop on Connecting All Things for
         Enabling Smart Cities, IEEE VTC-Spring, 2016
-
     -   Track: Wireless Network: Protocols, Security, and Services, IEEE
         VTC-Fall, 2016
-
     -   Track: Wireless Network: Protocols, Security, and Services, IEEE
         VTC-Spring, 2016
-
 -   Conference on Blockchain Research & Applications for Innovative
     Networks and Services (BRAINS), 2020
-
 -   IEEE/CIC ICCC ( IEEE/CIC International Conference on Communications
     in China (ICCC), 2019, 2020
-
 -   2018/2019 International Workshop on Big Data and Edge Computing for
     Smart City
-
 -   IEEE International Conference on Smart Grid Communications
     (SmartGridComm), 2017, 2018
-
     -   Main conference, 2018
-
     -   Symposium 1: Communications and Networks to Enable the Smart
         Grid, IEEE SmartGirdComm, 2017
-
 -   International Conference on Computer Communications and Networks
     (ICCCN), 2015
-
     -   Track: Green and Sustainable Computing
 
 ### 5. Reviewer of Journals and Conferences
@@ -532,7 +485,6 @@ University.
     Tutorials, IEEE Communications Magazine, IEEE Wireless
     Communications Magazine, IEEE Internet of Things Journal, IEEE
     Access, IEEE Vehicular Technology Magazine
-
 -   **International Journals**: Security and Communication Networks,
     Wireless Communications and Mobile Computing, Wiley's International
     Journal of Communication Systems, International Journal of
@@ -540,7 +492,6 @@ University.
     Management, China Communications, KSII Transactions on Internet and
     Information Systems, Mobile Information Systems, Peer-to-Peer
     Networking and Applications
-
 -   **IEEE & International Conferences**: IEEE International Conference
     on Computer Communications (INFOCOM) 2020, IEEE International
     Conference on Communications (ICC) 2017 - 2021, IEEE Global
@@ -555,18 +506,14 @@ University.
     Conference (MILCOM) 2015 - 2017, International Conference on Design
     of Reliable Communication Networks (DRCN) 2015, 2021
 
-
 ### 6. University Services at San Diego State University (SDSU)
 
 1.  University Senate at SDSU Undergrad Council - Representative of the
     Fowler College of Business, September 2023
-
 2.  Program Assessment Committee (PAC) at Fowler College of Business -
     Representative of the MIS department, September 2023 - May 2025
-
     -   Assessment Coordinator for the Masters of Science in
         Cybersecurity Management (MSCM) program
-
 3.  Admission Committee for MS Program in Cybersecurity Management -
     Member, Spring 2024
 
@@ -574,20 +521,14 @@ University.
 
 1.  Faculty Search and Screen Committee for The Beacom College of
     Computer and Cyber Sciences - Member, Spring 2021 & Spring 2022
-
 2.  Admission Committee for PhD Program in Computer Science - Member,
     Summer 2021
-
 3.  Admission Committee for PhD Program in Cyber Defense - Member,
     Spring 2021
-
 4.  Admission Committee for MS Program in Cyber Defense - Member, Fall &
     Spring & Summer 2021
-
 5.  AI Degree Planning Committee - Member
-
     -   Bachelor Degree in Artificial Intelligence, Approved by South
         Dakota Board of Regents, SM 2020 - SP 2021
-
     -   Artificial Intelligence Specialization in Master of Science
         Program in Computer Science, SM 2020 - SM 2021
