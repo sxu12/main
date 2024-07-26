@@ -425,64 +425,63 @@ International Conference on Computing, Networking, and
     Communications (ICNC), 2025 | *Symposium: Communication and Information Security (CIS)*
     
 International Symposium on Intelligent Computing and Networking
-    (ISICN), 2024 | *IEEE International Conference on Communications (ICC), 2022 || Symposium: Green Communication Systems and Networks (GCSN) || Symposium: Next-Generation Networking and Internet (NGNI)*
+    (ISICN), 2024
+    
+IEEE International Conference on Communications (ICC), 2022 | *Symposium: Green Communication Systems and Networks (GCSN)* | *Symposium: Next-Generation Networking and Internet (NGNI)*
 
-IEEE Global Communications Conference (GLOBECOM), 2021
-    -   Symposium: Green Communication Systems and Networks (GCSN)
-    -   Symposium: Selected Areas in Communications - Big Data
--   IEEE International Conference on Communications (ICC), 2021
-    -   Symposium: Green Communication Systems and Networks (GCSN)
-    -   Symposium: Next-Generation Networking and Internet (NGNI)
-    -   3rd IEEE International Workshop on Data Driven Intelligence for
-        Networks and Systems (DDINS)
--   IEEE Global Internet Symposium (GI), 2021
--   IEEE/ACM International Symposium on Quality of Service (IEEE/ACM
+IEEE Global Communications Conference (GLOBECOM), 2021 | *Symposium: Green Communication Systems and Networks (GCSN)* | *Symposium: Selected Areas in Communications - Big Data*
+
+IEEE International Conference on Communications (ICC), 2021 | *  Symposium: Green Communication Systems and Networks (GCSN)* | *Symposium: Next-Generation Networking and Internet (NGNI) * |  3rd IEEE International Workshop on Data Driven Intelligence for Networks and Systems (DDINS)*
+
+IEEE Global Internet Symposium (GI), 2021
+
+IEEE/ACM International Symposium on Quality of Service (IEEE/ACM
     IWQoS'21), 2021
--   IEEE Vehicular Technology Conference (VTC), 2016, 2017
-    -   Track: Wireless Networks: Protocols, Security, and Services,
-        IEEE VTC-Fall, 2017
-    -   Track: Green Communications and Networks, IEEE VTC-Fall, 2017
-    -   Track: Mobile Network Applications and Services, IEEE
-        VTC-Spring, 2017
-    -   Track: Wireless Networks and Security, IEEE VTC-Spring, 2017
-    -   Track: International Workshop on Connecting All Things for
-        Enabling Smart Cities, IEEE VTC-Spring, 2016
-    -   Track: Wireless Network: Protocols, Security, and Services, IEEE
-        VTC-Fall, 2016
-    -   Track: Wireless Network: Protocols, Security, and Services, IEEE
-        VTC-Spring, 2016
--   Conference on Blockchain Research & Applications for Innovative
+
+IEEE Vehicular Technology Conference (VTC), 2016, 2017 | * Track: Wireless Networks: Protocols, Security, and Services, IEEE VTC-Fall, 2017 * | *Track: Green Communications and Networks, IEEE VTC-Fall, 2017* | *  Track: Mobile Network Applications and Services, IEEE
+        VTC-Spring, 2017* |*Track: Wireless Networks and Security, IEEE VTC-Spring, 2017* | 
+* Track: International Workshop on Connecting All Things for
+        Enabling Smart Cities, IEEE VTC-Spring, 2016 *|
+*Track: Wireless Network: Protocols, Security, and Services, IEEE
+        VTC-Fall, 2016* |
+*Track: Wireless Network: Protocols, Security, and Services, IEEE
+        VTC-Spring, 2016*
+
+Conference on Blockchain Research & Applications for Innovative
     Networks and Services (BRAINS), 2020
--   IEEE/CIC ICCC ( IEEE/CIC International Conference on Communications
+
+IEEE/CIC ICCC ( IEEE/CIC International Conference on Communications
     in China (ICCC), 2019, 2020
--   2018/2019 International Workshop on Big Data and Edge Computing for
+
+2018/2019 International Workshop on Big Data and Edge Computing for
     Smart City
--   IEEE International Conference on Smart Grid Communications
-    (SmartGridComm), 2017, 2018
-    -   Main conference, 2018
-    -   Symposium 1: Communications and Networks to Enable the Smart
-        Grid, IEEE SmartGirdComm, 2017
--   International Conference on Computer Communications and Networks
-    (ICCCN), 2015
-    -   Track: Green and Sustainable Computing
+
+IEEE International Conference on Smart Grid Communications
+    (SmartGridComm), 2017, 2018 | *Main conference, 2018* | *Symposium 1: Communications and Networks to Enable the Smart
+        Grid, IEEE SmartGirdComm, 2017*
+
+International Conference on Computer Communications and Networks
+    (ICCCN), 2015 | *Track: Green and Sustainable Computing*
 
 ### 5. Reviewer of Journals and Conferences
 
--   **IEEE Journals & Magazines**: IEEE Transactions on Vehicular
+**IEEE Journals & Magazines**: IEEE Transactions on Vehicular
     Technology, IEEE Transactions on Cognitive Communications and
     Networking, IEEE Transactions on Mobile Computing, IEEE/ACM
     Transactions on Networking, IEEE Communications Surveys and
     Tutorials, IEEE Communications Magazine, IEEE Wireless
     Communications Magazine, IEEE Internet of Things Journal, IEEE
     Access, IEEE Vehicular Technology Magazine
--   **International Journals**: Security and Communication Networks,
+
+**International Journals**: Security and Communication Networks,
     Wireless Communications and Mobile Computing, Wiley's International
     Journal of Communication Systems, International Journal of
     Distributed Sensor Networks, Journal of Network and Systems
     Management, China Communications, KSII Transactions on Internet and
     Information Systems, Mobile Information Systems, Peer-to-Peer
     Networking and Applications
--   **IEEE & International Conferences**: IEEE International Conference
+
+**IEEE & International Conferences**: IEEE International Conference
     on Computer Communications (INFOCOM) 2020, IEEE International
     Conference on Communications (ICC) 2017 - 2021, IEEE Global
     Communications Conference (GLOBECOM) 2016, 2018, 2019, 2021, IEEE
@@ -498,23 +497,26 @@ IEEE Global Communications Conference (GLOBECOM), 2021
 
 ### 6. University Services at San Diego State University (SDSU)
 
-1. University Senate at SDSU Undergrad Council - Representative of the Fowler College of Business, September 2023
-2. Program Assessment Committee (PAC) at Fowler College of Business - Representative of the MIS department, September 2023 - May 2024
-    - Assessment Coordinator for the Masters of Science in Cybersecurity Management (MSCM) program
-3. Admission Committee for MS Program in Cybersecurity Management - Member, Spring 2024
+University Senate at SDSU Undergrad Council - Representative of the Fowler College of Business, September 2023
+
+Program Assessment Committee (PAC) at Fowler College of Business - Representative of the MIS department, September 2023 - May 2024 | Assessment Coordinator for the Masters of Science in Cybersecurity Management (MSCM) program
+
+Admission Committee for MS Program in Cybersecurity Management - Member, Spring 2024
 
 ### 7. University Services at Dakota State University (DSU)
 
-1.  Faculty Search and Screen Committee for The Beacom College of
+Faculty Search and Screen Committee for The Beacom College of
     Computer and Cyber Sciences - Member, Spring 2021 & Spring 2022
-2.  Admission Committee for PhD Program in Computer Science - Member,
+
+Admission Committee for PhD Program in Computer Science - Member,
     Summer 2021
-3.  Admission Committee for PhD Program in Cyber Defense - Member,
+
+Admission Committee for PhD Program in Cyber Defense - Member,
     Spring 2021
-4.  Admission Committee for MS Program in Cyber Defense - Member, Fall &
+
+Admission Committee for MS Program in Cyber Defense - Member, Fall &
     Spring & Summer 2021
-5.  AI Degree Planning Committee - Member
-    -   Bachelor Degree in Artificial Intelligence, Approved by South
-        Dakota Board of Regents, Summer 2020 - Spring 2021
-    -   Artificial Intelligence Specialization in Master of Science
+
+AI Degree Planning Committee - Member | Bachelor Degree in Artificial Intelligence, Approved by South
+        Dakota Board of Regents, Summer 2020 - Spring 2021 | Artificial Intelligence Specialization in Master of Science
         Program in Computer Science, Summer 2020 - Summer 2021
