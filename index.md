@@ -438,14 +438,7 @@ IEEE Global Internet Symposium (GI), 2021
 IEEE/ACM International Symposium on Quality of Service (IEEE/ACM
     IWQoS'21), 2021
 
-IEEE Vehicular Technology Conference (VTC), 2016, 2017 | * Track: Wireless Networks: Protocols, Security, and Services, IEEE VTC-Fall, 2017 * | *Track: Green Communications and Networks, IEEE VTC-Fall, 2017* | *  Track: Mobile Network Applications and Services, IEEE
-        VTC-Spring, 2017* |*Track: Wireless Networks and Security, IEEE VTC-Spring, 2017* | 
-* Track: International Workshop on Connecting All Things for
-        Enabling Smart Cities, IEEE VTC-Spring, 2016 *|
-*Track: Wireless Network: Protocols, Security, and Services, IEEE
-        VTC-Fall, 2016* |
-*Track: Wireless Network: Protocols, Security, and Services, IEEE
-        VTC-Spring, 2016*
+IEEE Vehicular Technology Conference (VTC), 2016, 2017 | * Track: Wireless Networks: Protocols, Security, and Services, IEEE VTC-Fall, 2017 * | *Track: Green Communications and Networks, IEEE VTC-Fall, 2017* | *  Track: Mobile Network Applications and Services, IEEE VTC-Spring, 2017* |*Track: Wireless Networks and Security, IEEE VTC-Spring, 2017* | * Track: International Workshop on Connecting All Things for Enabling Smart Cities, IEEE VTC-Spring, 2016 *| *Track: Wireless Network: Protocols, Security, and Services, IEEE VTC-Fall, 2016* | *Track: Wireless Network: Protocols, Security, and Services, IEEE VTC-Spring, 2016*
 
 Conference on Blockchain Research & Applications for Innovative
     Networks and Services (BRAINS), 2020
