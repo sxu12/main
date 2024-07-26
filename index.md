@@ -368,11 +368,11 @@ Operations*, Dakota State University, March 2021.
 ### 3. M.S. Thesis Supervised - as Committee Member
 
 \[MT2\] Shixuan Guan, "Detection and Prevention of Cryptocurrency
-Scams,\" M.S. in Computer Science, San Diego State University, May 2024.
+Scams,\" *M.S. in Computer Science*, San Diego State University, May 2024.
 
 \[MT1\] Melarie Cardenas, "Mitigating Cybersecurity Risks Posed
 Self-Service Analytics (SSA) Tools: Creation of a Standardized Audit,\"
-M.S. in Information Systems, San Diego State University, May 2023.
+*M.S. in Information Systems*, San Diego State University, May 2023.
 
 ### 4. Students with Awards - as the Sole Academic Supervisor
 
@@ -394,20 +394,13 @@ University.
 
 ### 2. Editorial Board for IEEE and International Journals
 
--   Technical Editor - IEEE Wireless
-    Communications,
-    April 2021 - Present
--   Editor - International Journal of Sensor Networks
-    (IJSNet),
-    September 2020 - Present
--   Editor - IEEE COMSOC MMTC Communications -
-    Review,
-    October 2020 - February 2024
--   Guest Editor - Wireless Communications and Mobile Computing,
-    Hindawi, 2021
-    -   Special Issue: Intelligent and Holistic IoT Solutions for Sustainable Cities and Society
--   Guest Editor - Discrete Dynamics in Nature and Society, Hindawi, 2022
-    -   Special Issue: Dynamic Modelling and Optimization for Intelligent IoT Networks
+- Technical Editor - IEEE Wireless Communications, April 2021 - Present
+- Editor - International Journal of Sensor Networks (IJSNet), September 2020 - Present
+- Editor - IEEE COMSOC MMTC Communications - Review, October 2020 - February 2024
+- Guest Editor - Wireless Communications and Mobile Computing, Hindawi, 2021
+  - Special Issue: Intelligent and Holistic IoT Solutions for Sustainable Cities and Society
+- Guest Editor - Discrete Dynamics in Nature and Society, Hindawi, 2022
+  - Special Issue: Dynamic Modelling and Optimization for Intelligent IoT Networks
 
 ### 3. Organizing Committee for IEEE and International Conferences
 
