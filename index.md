@@ -407,9 +407,7 @@ University.
     Hindawi, 2021
     -   Special Issue: Intelligent and Holistic IoT Solutions for Sustainable Cities and Society
 -   Guest Editor - Discrete Dynamics in Nature and Society, Hindawi, 2022
-    -   Special Issue: Dynamic Modelling and Optimization for
-        Intelligent IoT
-        Networks
+    -   Special Issue: Dynamic Modelling and Optimization for Intelligent IoT Networks
 
 ### 3. Organizing Committee for IEEE and International Conferences
 
