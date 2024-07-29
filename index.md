@@ -39,8 +39,7 @@ My research interests focus on **cybersecurity** and its intersections with **ma
 \[C25\] **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Zero Trust Model for Secure Edge Intelligence,\" 
 
 \[C24\] Gary McCully, John Hastings, **Shengjie Xu**, and Adam Fortier,
-"Using Unidirectional Embeddings for Discovering Vulnerabilities in
-Lifted Compiled Code,\" *23rd International
+"Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code,\" *23rd International
 Conference on Machine Learning and Applications (ICMLA)*, Miami,
 Florida, United States, December 18-20, 2024. (under review)
 
