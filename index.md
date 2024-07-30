@@ -36,30 +36,18 @@ My research interests focus on **cybersecurity** and its intersections with **ma
 [B1] **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Cybersecurity in Intelligent Networking Systems,\" *John Wiley/IEEE Press*, 2023. 
 
 ### 2. Refereed Conference Proceedings
-\[C25\] **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Zero Trust Model for Secure Edge Intelligence,\" 
+\[C25\]"Zero Trust Model for Secure Edge Intelligence,\" (under review)
 
-\[C24\] Gary McCully, John Hastings, **Shengjie Xu**, and Adam Fortier,
-"Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code,\" *23rd International
-Conference on Machine Learning and Applications (ICMLA)*, Miami,
-Florida, United States, December 18-20, 2024. (under review)
+\[C24\] "Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code,\" (under review)
 
-\[C23\] Sebastian Thau, Kyle Quinlan, Brett Hillyard, Dongfeng Fang, and
-**Shengjie Xu**, "A Lightweight Intrusion Detection System for CAN Bus
-Based on Ensemble Model,\" *IEEE Global
-Communications Conference (GLOBECOM) Workshops*, Cape Town, South
-Africa, December 8-12, 2024. (under review)
+\[C23\] "A Lightweight Intrusion Detection System for CAN Bus
+Based on Ensemble Model,\" (under review)
 
-\[C22\] Blake Ward, Daniel Gonzalez, Jake Alt, Dongfeng Fang, and
-**Shengjie Xu**, "Optimizing Weighted Ensemble ML IDS Using
-Parallelization and Batch Learning in Healthcare Networks,\" *IEEE International Conference on E-health Networking,
-Application & Services (Healthcom)*, Nara, Japan, November 18-20, 2024.
-(under review)
+\[C22\] B"Optimizing Weighted Ensemble ML IDS Using
+Parallelization and Batch Learning in Healthcare Networks,\" (under review)
 
-\[C21\] Gary McCully, John Hastings, **Shengjie Xu**, and Adam Fortier,
-"Bi-Directional Transformers vs. word2vec: Discovering Vulnerabilities
-in Lifted Compiled Code,\" *IEEE 4th Cyber Awareness
-and Research Symposium (CARS)*, Grand Forks, North Dakota, United
-States, October 28-29, 2024. (under review)
+\[C21\] "Bi-Directional Transformers vs. word2vec: Discovering Vulnerabilities
+in Lifted Compiled Code,\" (under review)
 
 \[C20\] Piyush Vyas, Jun Liu, and **Shengjie Xu**, "Real-Time Fake News
 Detection on the X (Twitter): An Online Machine Learning Approach,\"
