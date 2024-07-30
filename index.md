@@ -155,15 +155,15 @@ Intelligence Control (ISIC)*, Jilin, China, August 13-15, 2011.
 
 
 ### 3. Refereed Journal Articles
-\[J12\] **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Advancing Security in Edge Artificial Intelligence with Zero Trust Model,\" 
+\[J12\] "Advancing Security in Edge Artificial Intelligence with Zero Trust Model,\" 
 
-\[J11\] Ian Hardgrove and **Shengjie Xu**, "Large Language Model in Fuzz Testing,\" 
+\[J11\] "Large Language Model in Fuzz Testing,\" 
 
-\[J10\] Joel Meoak and **Shengjie Xu**, "An EMBER Static Malware Analysis Tactical Decision Aid for Incident Responders,\" 
+\[J10\] "An EMBER Static Malware Analysis Tactical Decision Aid for Incident Responders,\" 
 
-\[J9\] Allen Willan and **Shengjie Xu**, "Steganography using Generated Cover Text and a Coverless Image,\" 
+\[J9\] "Steganography using Generated Cover Text and a Coverless Image,\" 
 
-\[J8\] Bryce Cordill, Dongfeng Fang, and **Shengjie Xu**, "A Study of Security and Privacy in Unmanned Aerial Vehicles,\" 
+\[J8\] "A Study of Security and Privacy in Unmanned Aerial Vehicles,\" 
 
 \[J7\] Sohan Gyawali, **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Challenges and Solutions for Cellular based V2X Communications,\" *IEEE Communications Surveys and Tutorials*, vol. 23, no. 1, pp. 222-255, First Quarter 2021.
 
