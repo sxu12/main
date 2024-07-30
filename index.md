@@ -6,7 +6,7 @@ layout: homepage
 
 Shengjie Xu received a Ph.D. degree in Computer Engineering from the University of Nebraska-Lincoln, an M.S. degree in Telecommunications from the University of Pittsburgh, and a B.E. degree in Information Security. He is currently an Assistant Professor at the University of Arizona. Before joining UA, he was an Assistant Professor at San Diego State University and Dakota State University.
 
-His research interests include cybersecurity, secure AI/machine learning, cryptography, robust intelligent systems, and critical infrastructure protection. He serves as a Technical Editor for IEEE Wireless Communications and a proposal panel reviewer for the U.S. National Science Foundation, where he received research and training grants. He is the lead author of the book “Cybersecurity in Intelligent Networking Systems” (John Wiley/IEEE Press, 2023). He is a member of IEEE and ACM and holds multiple professional certifications in cybersecurity and computer networking.
+His research interests include cybersecurity, secure AI/machine learning, cryptography, robust intelligent systems, and critical infrastructure protection. He serves as a Technical Editor for IEEE Wireless Communications and a proposal panel reviewer for the U.S. National Science Foundation, where he received research and educational training grants. He is the lead author of the book “Cybersecurity in Intelligent Networking Systems” (John Wiley/IEEE Press, 2023). He is a member of IEEE and ACM and holds multiple professional certifications in cybersecurity and computer networking.
 
 
 
