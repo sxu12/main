@@ -40,8 +40,7 @@ My research interests focus on **cybersecurity** and its intersections with **ma
 
 \[C24\] "Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code,\" (under review)
 
-\[C23\] "A Lightweight Intrusion Detection System for CAN Bus
-Based on Ensemble Model,\" (under review)
+\[C23\] Blake Ward, Daniel Gonzalez, Jake Alt, Dongfeng Fang, and **Shengjie Xu**, "Optimizing Weighted Ensemble ML IDS Using Parallelization and Batch Learning in Healthcare Networks,\" Proceedings of the *IEEE International Conference on E-health Networking, Application & Services (Healthcom)*, Nara, Japan, November 18-20, 2024.
 
 \[C22\] "Optimizing Weighted Ensemble ML IDS Using
 Parallelization and Batch Learning in Healthcare Networks,\" (under review)
