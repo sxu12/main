@@ -38,13 +38,13 @@ My research interests focus on **cybersecurity** and its intersections with **ma
 ### 2. Refereed Conference Proceedings
 \[C25\]"Zero Trust Model for Secure Edge Intelligence,\" (under review)
 
-\[C24\] "Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code,\" (under review)
+
 
 \[C23\] Blake Ward, Daniel Gonzalez, Jake Alt, Dongfeng Fang, and **Shengjie Xu**, "Optimizing Weighted Ensemble ML IDS Using Parallelization and Batch Learning in Healthcare Networks,\" Proceedings of the *IEEE International Conference on E-health Networking, Application & Services (Healthcom)*, Nara, Japan, November 18-20, 2024.
 
 \[C22\] "A Lightweight Intrusion Detection System for CAN Bus Based on Ensemble Model,\" (under review)
 
-\[C21\] Gary McCully, John Hastings, **Shengjie Xu**, and Adam Fortier, "Bi-Directional Transformers vs. word2vec: Discovering Vulnerabilities in Lifted Compiled Code,\" Proceedings of the *IEEE 4th Cyber Awareness and Research Symposium (CARS)*, Grand Forks, North Dakota, United States, October 28-29, 2024.
+\[C21\] Gary McCully, John Hastings, **Shengjie Xu**, and Adam Fortier, "Bi-Directional Transformers vs. word2vec: Discovering Vulnerabilities in Lifted Compiled Code,\" Proceedings of the *IEEE 4th Cyber Awareness and Research Symposium (CARS)*, Grand Forks, North Dakota, United States, October 28-29, 2024. (accepted)
 
 \[C20\] Piyush Vyas, Jun Liu, and **Shengjie Xu**, "Real-Time Fake News
 Detection on the X (Twitter): An Online Machine Learning Approach,\"
