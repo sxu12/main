@@ -44,7 +44,7 @@ My research interests focus on **cybersecurity** and its intersections with **ma
 
 \[C22\] "A Lightweight Intrusion Detection System for CAN Bus Based on Ensemble Model,\" (under review)
 
-\[C21\] Gary McCully, John Hastings, **Shengjie Xu**, and Adam Fortier, "Bi-Directional Transformers vs. word2vec: Discovering Vulnerabilities in Lifted Compiled Code,\" Proceedings of the *IEEE 4th Cyber Awareness and Research Symposium (CARS)*, Grand Forks, North Dakota, United States, October 28-29, 2024. (accepted)
+\[C21\] Gary McCully, John Hastings, **Shengjie Xu**, and Adam Fortier, "Bi-Directional Transformers vs. word2vec: Discovering Vulnerabilities in Lifted Compiled Code,\" Proceedings of the *IEEE 4th Cyber Awareness and Research Symposium (CARS)*, Grand Forks, North Dakota, United States, October 28-29, 2024.
 
 \[C20\] Piyush Vyas, Jun Liu, and **Shengjie Xu**, "Real-Time Fake News
 Detection on the X (Twitter): An Online Machine Learning Approach,\"
@@ -389,6 +389,9 @@ Guest Editor - Discrete Dynamics in Nature and Society, Hindawi, 2022 | *Special
 
 ### 3. Organizing Committee for IEEE and International Conferences
 
+TPC Vice Chair - International Symposium on Intelligent Computing and
+    Networking, 2025 (ISICN 2025)
+    
 Finance Chair - International Symposium on Intelligent Computing and
     Networking, 2024 (ISICN 2024)
 
