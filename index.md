@@ -38,7 +38,7 @@ My research interests focus on **cybersecurity** and its intersections with **ma
 ### 2. Refereed Conference Proceedings
 \[C25\]"Zero Trust Model for Secure Edge Intelligence,\" (under review)
 
-
+\[C24\] ``Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code," (under review) 
 
 \[C23\] Blake Ward, Daniel Gonzalez, Jake Alt, Dongfeng Fang, and **Shengjie Xu**, "Optimizing Weighted Ensemble ML IDS Using Parallelization and Batch Learning in Healthcare Networks,\" Proceedings of the *IEEE International Conference on E-health Networking, Application & Services (Healthcom)*, Nara, Japan, November 18-20, 2024.
 
