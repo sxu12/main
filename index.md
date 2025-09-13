@@ -13,7 +13,7 @@ I am a Senior Member of IEEE and hold multiple professional certifications in cy
 ## Research Interests
 
 - **Cybersecurity:** zero trust, intrusion detection, cryptography
-- **Machine Learning for Cybersecurity:** learning-based anomaly detection, federated learning, adversarial machine learning
+- **Machine Learning:** semi-supervised learning, federated learning, adversarial machine learning
 - **Edge Computing:** secure edge computing, security edge AI, intelligent networking systems
 
 
